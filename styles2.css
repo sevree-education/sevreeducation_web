@@ -184,11 +184,11 @@ main{
     flex-direction: column;
 }
 .descdisp{
-    font-size: 0.7rem;
-    font-weight: 400;
+    font-size: 0.8rem;
+    font-weight: 500;
 }
 .element p{
-    margin: 0;
+    margin: 0.3rem;
 }
 .element2{
     display: flex;
